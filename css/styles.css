@@ -1,6 +1,10 @@
 html {
     font-family: sans-serif;
   }
+
+  h1 {
+    text-align: center;
+  }
   
   table {
     border-collapse: collapse;
@@ -31,6 +35,6 @@ html {
   }
   
   caption {
+    text-align: center;
     padding: 10px;
   }
-  
